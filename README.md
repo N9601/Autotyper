@@ -1,10 +1,7 @@
 # AutoTyper
 
 Types text into any window as real keystrokes, with the spacing and
-indentation exactly as you wrote it. Built for typing code into an editor in
-a Chrome tab (LeetCode, HackerRank, Replit, vscode.dev and so on), but it
-works in any app.
-
+indentation exactly as you wrote it.
 Windows only. Python 3 standard library only, nothing to install.
 
 ## Run it
