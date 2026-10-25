@@ -1,0 +1,3 @@
+# Holds your saved text and your Gemini API key in plain text
+autotyper_settings.json
+__pycache__/
